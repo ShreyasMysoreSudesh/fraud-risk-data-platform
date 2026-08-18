@@ -6,6 +6,7 @@ Requires-Python: >=3.12
 Requires-Dist: faker
 Requires-Dist: pydantic
 Requires-Dist: email-validator
+Requires-Dist: pyarrow
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: ruff; extra == "dev"

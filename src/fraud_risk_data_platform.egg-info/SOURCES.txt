@@ -4,6 +4,8 @@ src/fraud_platform/__init__.py
 src/fraud_platform/data_generator/__init__.py
 src/fraud_platform/data_generator/generator.py
 src/fraud_platform/data_generator/models.py
+src/fraud_platform/data_generator/run_generation.py
+src/fraud_platform/data_generator/writer.py
 src/fraud_risk_data_platform.egg-info/PKG-INFO
 src/fraud_risk_data_platform.egg-info/SOURCES.txt
 src/fraud_risk_data_platform.egg-info/dependency_links.txt
