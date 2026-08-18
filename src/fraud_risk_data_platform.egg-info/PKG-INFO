@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: fraud-risk-data-platform
+Version: 0.1.0
+Summary: Portfolio-grade fraud risk data engineering platform
+Requires-Python: >=3.12
+Requires-Dist: faker
+Requires-Dist: pydantic
+Requires-Dist: email-validator
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
