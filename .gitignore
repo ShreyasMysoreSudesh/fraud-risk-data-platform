@@ -30,3 +30,11 @@ Thumbs.db
 
 # Ruff
 .ruff_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
